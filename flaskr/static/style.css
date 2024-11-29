@@ -1,23 +1,23 @@
 html {
   font-family: sans-serif;
-  background: #eee;
+  background: #465954;
   padding: 1rem;
 }
 
 body {
   max-width: 960px;
   margin: 0 auto;
-  background: white;
+  background: #D9B4A7;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: serif;
-  color: #377ba8;
+  color: #0D0D0D;
   margin: 1rem 0;
 }
 
 a {
-  color: #377ba8;
+  color: #0D2618;
 }
 
 hr {
@@ -73,7 +73,7 @@ nav ul li a, nav ul li span, header .action {
   margin: 1em 0;
   padding: 1em;
   background: #cae6f6;
-  border: 1px solid #377ba8;
+  border: 1px solid #a3e4d7;
 }
 
 .post > header {

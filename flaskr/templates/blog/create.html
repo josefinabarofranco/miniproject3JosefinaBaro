@@ -10,6 +10,13 @@
     <input name="title" id="title" value="{{ request.form['title'] }}" required>
     <label for="body">Body</label>
     <textarea name="body" id="body">{{ request.form['body'] }}</textarea>
+    <p>Would you replay this game?</p>
+    <label>
+      <input type="radio" name="response" value="yes"> Yes
+    </label>
+    <label>
+      <input type="radio" name="response" value="no"> No
+    </label>
     <input type="submit" value="Save">
   </form>
 {% endblock %}
