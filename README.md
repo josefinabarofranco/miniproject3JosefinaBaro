@@ -13,6 +13,7 @@ https://flask.palletsprojects.com/en/stable/tutorial/
 ### Dependencies
 
 ```
+pip install Flask
 pip install -r requirements.txt
 
 ```
