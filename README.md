@@ -2,12 +2,13 @@
 # Josefina Baro
 # Mini Project 3
 
-# Mini Project 3
 
 ## Description
 
 This will follow the tutorial at: 
 https://flask.palletsprojects.com/en/stable/tutorial/
+
+Small changes were made to create a 'Quotes' website where users can post quotes along with the author.
 
 
 ### Dependencies
